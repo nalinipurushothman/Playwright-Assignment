@@ -7,7 +7,7 @@
     "test": "jasmine"
   },
   "keywords": [],
-  "author": "",
+  "author": "Nalini Purushothman",
   "license": "ISC",
   "devDependencies": {
     "@playwright/test": "^1.45.1",
